@@ -1,6 +1,8 @@
 # longitudinal-notebooks
 
-This repository contains example code, an analysis notebook, and example results for the q2-longitudinal plugin.
+This repository contains example code, an [analysis notebook](./notebooks/analysis.ipynb), and example results for the q2-longitudinal plugin.
+
+See the analysis notebook [here](./notebooks/analysis.ipynb).
 
 This repository only contains selected examples for the q2-longitudinal plugin. For complete tutorials and more information, see https://github.com/qiime2/q2-longitudinal
 
